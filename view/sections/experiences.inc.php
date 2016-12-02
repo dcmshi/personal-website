@@ -5,7 +5,7 @@
 
 <hr />
 
-<h3>Educations</h3>
+<h3>Education</h3>
 
 <?php if(count($educations) > 0) { ?>
 
@@ -53,7 +53,7 @@
 
 <hr />
 
-<h3>Careers</h3>
+<h3>Career</h3>
 
 <?php if(count($careers) > 0) { ?>
 

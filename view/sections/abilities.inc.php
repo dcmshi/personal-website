@@ -55,7 +55,7 @@
 
 <hr />
 
-<h3>Languages</h3>
+<!-- <h3>Languages</h3>
 
 <div class="row">
 
@@ -101,9 +101,9 @@
 	
 	<?php } ?>
 	
-</div>
+</div> -->
 
-<hr />
+<!-- <hr /> -->
 
 <h3>Tools</h3>
 

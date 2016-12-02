@@ -66,7 +66,6 @@
 		{
 			if($lstrData = file_get_contents(JSON_DATA_FILE))
 			{
-				echo $lstrData;
 				ORM::setData($lstrData);
 			}
 		}
