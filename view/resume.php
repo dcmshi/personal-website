@@ -10,8 +10,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		
 		<meta name="author" content="David Shi" />	
-		<meta name="description" content="I'm David Shi, a ninja webdeveloper / creative programmer with good knowledge of front-end technics." />
-		<meta name="keywords" content="David Shi, Interactive Resume, PHP programmer, Web developer, Startup, Interactive CV, Resume, CV, Whoopaa, HRMatches, Sanitairwinkel, Algorithms, PHP, MySQL, OOP" />
+		<meta name="description" content="I'm David Shi, a creative programmer with good knowledge of front-end techniques." />
+		<meta name="keywords" content="David Shi, Interactive Resume, programmer, Web developer, Startup, Interactive CV, Resume, CV, Algorithms" />
 		<meta name="robots" content="index, follow" />
 		<meta name="revisit-after" content="14 days" />
 			
